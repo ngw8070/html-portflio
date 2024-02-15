@@ -1,0 +1,71 @@
+<Doctype !html>
+<head><title>My Resume</title></head>
+<body>
+
+<h1 style="text-align:center">N IC H O L A S WA R G O</h1>
+
+<p style="text-align:center">
+ngw8070@gmail.com
+<br/>
+724-263-8310
+<br/>
+Asheville, NC
+</p>
+<hr/>
+<h2 style="text-align:center">Education</h2>
+<h3>SLIPPERY ROCK UNIVERSITY</h3>
+<br/>
+2007-2011<br/>
+Bachelor of Science in Sport Management<br/>
+Minor in Business Adminstration <br/>
+<hr/>
+<h2 style="text-align:center">Skills</h2>
+<ul><li>Proficient in Jira for project
+management and issue tracking.</li>
+<li>Experienced in using Slack for
+efficient team communication.</li>
+<li>Skilled in ProductPlan for
+strategic product roadmapping.</li>
+<li>Familiar with Figma for
+collaborative design and
+prototyping.</li>
+<li>Utilized Pendo for product
+analytics and user engagement.</li>
+<li>Proficient in Airtable for data
+organization and collaboration.</li>
+<li>Knowledgeable in Zendesk for
+customer support and ticket
+management.</li>
+<li>Familiarity with Salesforce for
+customer relationship
+management.</li>
+<li>Used TestRail for test case
+management and execution.</li>
+<li>Certified in Web Development</li>
+</ul>
+<hr/>
+<h2 style="text-align:center">Experience</h2>
+<b>ASSOCIATE PRODUCT MANAGER</b>
+<br>
+Leap Event Technology
+<br/>
+September 2022-Present
+<br/>
+<br/>
+<b>CLIENT SERVICES REPRESENTATIVE</b>
+<br>
+TicketLeap
+<br/>
+March 2018-December 2022
+<br/>
+<br/>
+
+<b>SENIOR CUSTOMER SERVICE REPRESENTATIVE</b>
+<br>
+ShowClix
+<br/>
+January 2015-March 2018
+<br/>
+
+
+</body>
